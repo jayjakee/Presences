@@ -24,7 +24,7 @@
     "movies.sosac.tv",
     "sosac.tv"
   ],
-  "version": "1.0.13",
+  "version": "1.0.2",
   "logo": "https://cdn.rcd.gg/PreMiD/websites/S/Sosac/assets/logo.png",
   "thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Sosac/assets/thumbnail.png",
   "color": "#ff5600",
@@ -35,5 +35,5 @@
     "series"
   ],
   "iframe": true,
-  "iFrameRegExp": "www[.]streamuj[.]tv[/]video[/]"
+  "iFrameRegExp": ".+\\/player\\/.+"
 }
